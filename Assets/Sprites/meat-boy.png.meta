@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 3db532f23bae74948bed454ce0e9bb89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1892808761086409643
+    second: meat-boy_0
+  - first:
+      213: 3816151590791211807
+    second: meat-boy_1
+  - first:
+      213: 4537384026234854276
+    second: meat-boy_2
+  - first:
+      213: 8777108737302162276
+    second: meat-boy_3
+  - first:
+      213: -2796005492303145062
+    second: meat-boy_4
+  - first:
+      213: 5870676746461391866
+    second: meat-boy_5
+  - first:
+      213: 8350656978256202982
+    second: meat-boy_6
+  - first:
+      213: -588622259750767336
+    second: meat-boy_7
+  - first:
+      213: -7483114270644224739
+    second: meat-boy_8
+  - first:
+      213: 58035993700363199
+    second: meat-boy_9
+  - first:
+      213: -3325315382896394783
+    second: meat-boy_10
+  - first:
+      213: -2040944786414343215
+    second: meat-boy_11
+  - first:
+      213: 8292793929376001110
+    second: meat-boy_12
+  - first:
+      213: -8575510946083025574
+    second: meat-boy_13
+  - first:
+      213: -5334752110721040487
+    second: meat-boy_14
+  - first:
+      213: -5949757159317450049
+    second: meat-boy_15
+  - first:
+      213: -6525324132640295548
+    second: meat-boy_16
+  - first:
+      213: -8404609552269626279
+    second: meat-boy_17
+  - first:
+      213: -4934251362687590432
+    second: meat-boy_18
+  - first:
+      213: 7922151495673700962
+    second: meat-boy_19
+  - first:
+      213: -3270915710618410017
+    second: meat-boy_20
+  - first:
+      213: 8610213380302374602
+    second: meat-boy_21
+  - first:
+      213: -21043886569929717
+    second: meat-boy_22
+  - first:
+      213: -4312043150729766524
+    second: meat-boy_23
+  - first:
+      213: 4971906503923569179
+    second: meat-boy_24
+  - first:
+      213: 6312541038046158078
+    second: meat-boy_25
+  - first:
+      213: -8550617327680953424
+    second: meat-boy_26
+  - first:
+      213: -2522176100185395247
+    second: meat-boy_27
+  - first:
+      213: -5229067767490992846
+    second: meat-boy_28
+  - first:
+      213: -2877868027740155239
+    second: meat-boy_29
+  - first:
+      213: -6799326178975858218
+    second: meat-boy_30
+  - first:
+      213: -7239021249881800331
+    second: meat-boy_31
+  - first:
+      213: 5568150634296278870
+    second: meat-boy_32
+  - first:
+      213: 6921136453941674221
+    second: meat-boy_33
+  - first:
+      213: -1304125743280695641
+    second: meat-boy_34
+  - first:
+      213: 5618428291514319190
+    second: meat-boy_35
+  - first:
+      213: 7385439828902991354
+    second: meat-boy_36
+  - first:
+      213: -8403883888232195
+    second: meat-boy_37
+  - first:
+      213: -8761072962058135165
+    second: meat-boy_38
+  - first:
+      213: -1127419902654154361
+    second: meat-boy_39
+  - first:
+      213: -5984432966931721190
+    second: meat-boy_40
+  - first:
+      213: -294589536711340957
+    second: meat-boy_41
+  - first:
+      213: 1802227766715215480
+    second: meat-boy_42
+  - first:
+      213: 4974841490763896315
+    second: meat-boy_43
+  - first:
+      213: 6618712724029810760
+    second: meat-boy_44
+  - first:
+      213: 4052306948999145709
+    second: meat-boy_45
+  - first:
+      213: 5571530527543839998
+    second: meat-boy_46
+  - first:
+      213: -1029333620292390098
+    second: meat-boy_47
+  - first:
+      213: -4394073477654418983
+    second: meat-boy_48
+  - first:
+      213: -4304021827383272029
+    second: meat-boy_49
+  - first:
+      213: 257200306728472391
+    second: meat-boy_50
+  - first:
+      213: 4791340185415698303
+    second: meat-boy_51
+  - first:
+      213: 8486395847487994696
+    second: meat-boy_52
+  - first:
+      213: 5210806699929548514
+    second: meat-boy_53
+  - first:
+      213: -4115901307312349599
+    second: meat-boy_54
+  - first:
+      213: -6369784094268092396
+    second: meat-boy_55
+  - first:
+      213: 9110073823176063075
+    second: meat-boy_56
+  - first:
+      213: -382867304727086742
+    second: meat-boy_57
+  - first:
+      213: 7840559883267759995
+    second: meat-boy_58
+  - first:
+      213: 2642862172448189530
+    second: meat-boy_59
+  - first:
+      213: 6277556304619407091
+    second: meat-boy_60
+  - first:
+      213: -7136382651457387859
+    second: meat-boy_61
+  - first:
+      213: -4771054066893562166
+    second: meat-boy_62
+  - first:
+      213: 5703447815738213012
+    second: meat-boy_63
+  - first:
+      213: 1969834981351960570
+    second: meat-boy_64
+  - first:
+      213: 1039899747503318128
+    second: meat-boy_65
+  - first:
+      213: -4897735578029454077
+    second: meat-boy_66
+  - first:
+      213: -4989651200018352713
+    second: meat-boy_67
+  - first:
+      213: -8308847064012014717
+    second: meat-boy_68
+  - first:
+      213: 5367230846420353200
+    second: meat-boy_69
+  - first:
+      213: 3368013509043303557
+    second: meat-boy_70
+  - first:
+      213: -4163514978357580153
+    second: meat-boy_71
+  - first:
+      213: 1129455917194627925
+    second: meat-boy_72
+  - first:
+      213: -3399047943152612259
+    second: meat-boy_73
+  - first:
+      213: 1569466270082607389
+    second: meat-boy_74
+  - first:
+      213: -1269068971439614052
+    second: meat-boy_75
+  - first:
+      213: -2854225130142687033
+    second: meat-boy_76
+  - first:
+      213: -2352992688786026767
+    second: meat-boy_77
+  - first:
+      213: 1896766329045789907
+    second: meat-boy_78
+  - first:
+      213: 7009678567898119034
+    second: meat-boy_79
+  - first:
+      213: 2114270440462551273
+    second: meat-boy_80
+  - first:
+      213: -109376480994528690
+    second: meat-boy_81
+  - first:
+      213: -4415727314949996821
+    second: meat-boy_82
+  - first:
+      213: -8562380312807077569
+    second: meat-boy_83
+  - first:
+      213: -6714953105264168343
+    second: meat-boy_84
+  - first:
+      213: 2911586495649801286
+    second: meat-boy_85
+  - first:
+      213: 4804770668678076644
+    second: meat-boy_86
+  - first:
+      213: -7015317838179757201
+    second: meat-boy_87
+  - first:
+      213: 9170850670136329321
+    second: meat-boy_88
+  - first:
+      213: -4987900005794255097
+    second: meat-boy_89
+  - first:
+      213: 955065611684704085
+    second: meat-boy_90
+  - first:
+      213: -7706464519005148774
+    second: meat-boy_91
+  - first:
+      213: -1927574675830949106
+    second: meat-boy_92
+  - first:
+      213: 6764429218065671597
+    second: meat-boy_93
+  - first:
+      213: 1975608177740099065
+    second: meat-boy_94
+  - first:
+      213: 2155743262473090560
+    second: meat-boy_95
+  - first:
+      213: 1397469224834113530
+    second: meat-boy_96
+  - first:
+      213: 730091148558118006
+    second: meat-boy_97
+  - first:
+      213: -7378585599897195361
+    second: meat-boy_98
+  - first:
+      213: 5385966977407724155
+    second: meat-boy_99
+  - first:
+      213: -220912395248378902
+    second: meat-boy_100
+  - first:
+      213: 4818882442533440598
+    second: meat-boy_101
+  - first:
+      213: -66327860590715740
+    second: meat-boy_102
+  - first:
+      213: -8882433442694489926
+    second: meat-boy_103
+  - first:
+      213: -8408977099923997747
+    second: meat-boy_104
+  - first:
+      213: -7303748319926492459
+    second: meat-boy_105
+  - first:
+      213: -3949026827672282294
+    second: meat-boy_106
+  - first:
+      213: -3168858161455140881
+    second: meat-boy_107
+  - first:
+      213: 8590258095487629538
+    second: meat-boy_108
+  - first:
+      213: -1538614616295843192
+    second: meat-boy_109
+  - first:
+      213: 4637546510494688766
+    second: meat-boy_110
+  - first:
+      213: 8034593278913780930
+    second: meat-boy_111
+  - first:
+      213: 5906355244229062597
+    second: meat-boy_112
+  - first:
+      213: 4801092569021337608
+    second: meat-boy_113
+  - first:
+      213: -2360725139314505849
+    second: meat-boy_114
+  - first:
+      213: -8090164832804290661
+    second: meat-boy_115
+  - first:
+      213: -7632845887369147072
+    second: meat-boy_116
+  - first:
+      213: 3579191261357752728
+    second: meat-boy_117
+  - first:
+      213: -694050979612222008
+    second: meat-boy_118
+  - first:
+      213: -5886837941045789155
+    second: meat-boy_119
+  - first:
+      213: -7310901976511615157
+    second: meat-boy_120
+  - first:
+      213: 3874945904531494231
+    second: meat-boy_121
+  - first:
+      213: -1577608423778547116
+    second: meat-boy_122
+  - first:
+      213: 453954058224589387
+    second: meat-boy_123
+  - first:
+      213: 1234718283361067457
+    second: meat-boy_124
+  - first:
+      213: -129900345975604913
+    second: meat-boy_125
+  - first:
+      213: -228842911247078804
+    second: meat-boy_126
+  - first:
+      213: 8075922220948603080
+    second: meat-boy_127
+  - first:
+      213: 8347113838558965429
+    second: meat-boy_128
+  - first:
+      213: 249489649030143752
+    second: meat-boy_129
+  - first:
+      213: -6521661194168991471
+    second: meat-boy_130
+  - first:
+      213: 6818553392767328160
+    second: meat-boy_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meat-boy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55482b7d5746bb5e0800000000000000
+      internalID: -1892808761086409643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be62a27a1b5f430800000000000000
+      internalID: 3816151590791211807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b92455bb608fe30800000000000000
+      internalID: 4537384026234854276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b6fd9b4ed8ec970800000000000000
+      internalID: 8777108737302162276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97da3191d79239d0800000000000000
+      internalID: -2796005492303145062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2aff8565d87150800000000000000
+      internalID: 5870676746461391866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec091e274e73e370800000000000000
+      internalID: 8350656978256202982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815faa46c2bc4d7f0800000000000000
+      internalID: -588622259750767336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3894d733a62890800000000000000
+      internalID: -7483114270644224739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 824
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb62b4cd6f2ec000800000000000000
+      internalID: 58035993700363199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed715c074b1ad1d0800000000000000
+      internalID: -3325315382896394783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db6697b78b1da3e0800000000000000
+      internalID: -2040944786414343215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce8f3442ce51370800000000000000
+      internalID: 8292793929376001110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4f33ca3aadf880800000000000000
+      internalID: -8575510946083025574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ff4b3583727f5b0800000000000000
+      internalID: -5334752110721040487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2db0303673e6da0800000000000000
+      internalID: -5949757159317450049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f0b526446175a0800000000000000
+      internalID: -6525324132640295548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9543d194424dc5b80800000000000000
+      internalID: -8404609552269626279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd4864784068bb0800000000000000
+      internalID: -4934251362687590432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e57cdfc221fd60800000000000000
+      internalID: 7922151495673700962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_20
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36852cd7f5b92d0800000000000000
+      internalID: -3270915710618410017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_21
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac60d35537f9d7770800000000000000
+      internalID: 8610213380302374602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044e4852bc35bff0800000000000000
+      internalID: -21043886569929717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4899890c99b8824c0800000000000000
+      internalID: -4312043150729766524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1291de7f92cff440800000000000000
+      internalID: 4971906503923569179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc11daf0a6aa9750800000000000000
+      internalID: 6312541038046158078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e645f7da165980800000000000000
+      internalID: -8550617327680953424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df287f233e6ffcd0800000000000000
+      internalID: -2522176100185395247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235214cf19e9e67b0800000000000000
+      internalID: -5229067767490992846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9921810c642cf08d0800000000000000
+      internalID: -2877868027740155239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d141265dd0f3a1a0800000000000000
+      internalID: -6799326178975858218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_31
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5718a47f684d98b90800000000000000
+      internalID: -7239021249881800331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 684
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f7815208b064d40800000000000000
+      internalID: 5568150634296278870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de043336fe0dc0060800000000000000
+      internalID: 6921136453941674221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6df49cb80d6ede0800000000000000
+      internalID: -1304125743280695641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65147bf63caa8fd40800000000000000
+      internalID: 5618428291514319190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5d8c7056a5e7660800000000000000
+      internalID: 7385439828902991354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8bb1e46b422eff0800000000000000
+      internalID: -8403883888232195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_38
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389de352f8a6a6680800000000000000
+      internalID: -8761072962058135165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789f79562999a50f0800000000000000
+      internalID: -1127419902654154361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_40
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d5e76ce503fca0800000000000000
+      internalID: -5984432966931721190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_41
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c06cd806869ebf0800000000000000
+      internalID: -294589536711340957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_42
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee76fea9cc20910800000000000000
+      internalID: 1802227766715215480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf55bde5aff2a0540800000000000000
+      internalID: 4974841490763896315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 614
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848a722b7246adb50800000000000000
+      internalID: 6618712724029810760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e0f733bfac3830800000000000000
+      internalID: 4052306948999145709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcce7dde7d025d40800000000000000
+      internalID: 5571530527543839998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23fa17a68217b1f0800000000000000
+      internalID: -1029333620292390098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9617fe37d1503c0800000000000000
+      internalID: -4394073477654418983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adda41a3fa0544c0800000000000000
+      internalID: -4304021827383272029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f0ca6f052c19300800000000000000
+      internalID: 257200306728472391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77c1c553824e7240800000000000000
+      internalID: 4791340185415698303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_52
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b3fd87f0cb5c570800000000000000
+      internalID: 8486395847487994696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6b686e511805840800000000000000
+      internalID: 5210806699929548514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_54
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed417619161e6c0800000000000000
+      internalID: -4115901307312349599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41097356d1bf997a0800000000000000
+      internalID: -6369784094268092396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3687efbffdb7d6e70800000000000000
+      internalID: 9110073823176063075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6971a10738cfaaf0800000000000000
+      internalID: -382867304727086742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f5a5a3ca34fcc60800000000000000
+      internalID: 7840559883267759995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c6713b4255da420800000000000000
+      internalID: 2642862172448189530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f68a5af23c5e1750800000000000000
+      internalID: 6277556304619407091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24f96e9c976fc90800000000000000
+      internalID: -7136382651457387859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_62
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace50a2ba9fc9cdb0800000000000000
+      internalID: -4771054066893562166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492cd0cf197b62f40800000000000000
+      internalID: 5703447815738213012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2f999a72465b10800000000000000
+      internalID: 1969834981351960570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_65
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07424fb8f477e6e00800000000000000
+      internalID: 1039899747503318128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_66
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d03cbe07fb70cb0800000000000000
+      internalID: -4897735578029454077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_67
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 474
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5fdcd7ba231cab0800000000000000
+      internalID: -4989651200018352713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b34801e9b01bc80800000000000000
+      internalID: -8308847064012014717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0876c940c3c7a40800000000000000
+      internalID: 5367230846420353200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_70
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843e3521769dbe20800000000000000
+      internalID: 3368013509043303557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_71
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6af9bf293836c0800000000000000
+      internalID: -4163514978357580153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b49dd2c22acaf00800000000000000
+      internalID: 1129455917194627925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_73
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ccdd597e724d0d0800000000000000
+      internalID: -3399047943152612259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_74
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192b3bd14dd7c510800000000000000
+      internalID: 1569466270082607389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_75
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c971fd98e7c536ee0800000000000000
+      internalID: -1269068971439614052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_76
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c02ad0dd51c368d0800000000000000
+      internalID: -2854225130142687033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_77
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe41d1cd9d785fd0800000000000000
+      internalID: -2352992688786026767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_78
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc22b04deaa25a10800000000000000
+      internalID: 1896766329045789907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_79
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b7c35c481674160800000000000000
+      internalID: 7009678567898119034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e801e283c5675d10800000000000000
+      internalID: 2114270440462551273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42f9878baa6b7ef0800000000000000
+      internalID: -109376480994528690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee7a6f076f28b2c0800000000000000
+      internalID: -4415727314949996821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39065f88705c2980800000000000000
+      internalID: -8562380312807077569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_84
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962b2556ab1bfc2a0800000000000000
+      internalID: -6714953105264168343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e706dd78086820800000000000000
+      internalID: 2911586495649801286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_86
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d5c56779fda240800000000000000
+      internalID: 4804770668678076644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_87
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6395dc489594ae90800000000000000
+      internalID: -7015317838179757201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_88
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96401a16818654f70800000000000000
+      internalID: 9170850670136329321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_89
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 334
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe67b2f5b67cab0800000000000000
+      internalID: -4987900005794255097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f68a91d13114d00800000000000000
+      internalID: 955065611684704085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 264
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99eb8eb9532d0590800000000000000
+      internalID: -7706464519005148774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 264
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bbe098b01ef35e0800000000000000
+      internalID: -1927574675830949106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 264
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e31bc88410ed50800000000000000
+      internalID: 6764429218065671597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_94
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 264
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd2e81ab25ca6b10800000000000000
+      internalID: 1975608177740099065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_95
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 264
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00676aa531dbaed10800000000000000
+      internalID: 2155743262473090560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 264
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff17ca1bdec46310800000000000000
+      internalID: 1397469224834113530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_97
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 264
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ca67b080ec12a00800000000000000
+      internalID: 730091148558118006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ca0558d7ff99990800000000000000
+      internalID: -7378585599897195361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_99
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2f5c0e6cceba40800000000000000
+      internalID: 5385966977407724155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_100
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5db2d8592fecf0800000000000000
+      internalID: -220912395248378902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_101
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c8299cc0c10e240800000000000000
+      internalID: 4818882442533440598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac57c6892b541ff0800000000000000
+      internalID: -66327860590715740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_103
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8152358d14bb480800000000000000
+      internalID: -8882433442694489926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_104
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbb2aa51ef4d4b80800000000000000
+      internalID: -8408977099923997747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_105
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ece5999fd3aa90800000000000000
+      internalID: -7303748319926492459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_106
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b1b18e50d3239c0800000000000000
+      internalID: -3949026827672282294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_107
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef6ede9a44f504d0800000000000000
+      internalID: -3168858161455140881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_108
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8b676893ab63770800000000000000
+      internalID: 8590258095487629538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_109
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 194
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a567d882eb5aae0800000000000000
+      internalID: -1538614616295843192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef563630bffdb5040800000000000000
+      internalID: 4637546510494688766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_111
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc9560a40c908f60800000000000000
+      internalID: 8034593278913780930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_112
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfe9892dc697f150800000000000000
+      internalID: 5906355244229062597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d8461148e0a240800000000000000
+      internalID: 4801092569021337608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78703d25ef40d3fd0800000000000000
+      internalID: -2360725139314505849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_115
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fb756b2f5f9bf80800000000000000
+      internalID: -8090164832804290661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_116
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d8f022b1fa21690800000000000000
+      internalID: -7632845887369147072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_117
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89149642d77dba130800000000000000
+      internalID: 3579191261357752728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_118
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd9330bf4c3e56f0800000000000000
+      internalID: -694050979612222008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_119
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7ca91510cd4ea0800000000000000
+      internalID: -5886837941045789155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_120
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe25e13657a8a90800000000000000
+      internalID: -7310901976511615157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_121
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 124
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755547315c296c530800000000000000
+      internalID: 3874945904531494231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a04024f753b1ae0800000000000000
+      internalID: -1577608423778547116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_123
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad2d09fc4cc4600800000000000000
+      internalID: 453954058224589387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_124
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1aa65acb9922110800000000000000
+      internalID: 1234718283361067457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_125
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f497ce5d250823ef0800000000000000
+      internalID: -129900345975604913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_126
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a60cda59cf2dcf0800000000000000
+      internalID: -228842911247078804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_127
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0435dc870731070800000000000000
+      internalID: 8075922220948603080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_128
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beed0fafc7e6d370800000000000000
+      internalID: 8347113838558965429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_129
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1491938d567300800000000000000
+      internalID: 249489649030143752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_130
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1118b1872b76e75a0800000000000000
+      internalID: -6521661194168991471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meat-boy_131
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 54
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af5ee93f2e50ae50800000000000000
+      internalID: 6818553392767328160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
